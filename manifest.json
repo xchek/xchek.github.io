@@ -1,10 +1,11 @@
 {
-  "short_name": "xchek.github.io",
-  "name": "xchek.github.io GH page",
+  "short_name": "jedmonson.net",
+  "name": "Jonathan Edmonson",
+  "description": "An aspiring technologist's website to demonstrate various concepts.",
   "icons": [
     {
       "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
+      "sizes": "16x16",
       "type": "image/x-icon"
     }
   ],
