@@ -1,0 +1,1 @@
+:root{--grid-element-size:10px}.grid{margin:auto auto auto 2vw}.grid-row{display:flex}.grid-item{height:var(--grid-element-size);width:var(--grid-element-size)}.grid-item:hover{opacity:.5}
