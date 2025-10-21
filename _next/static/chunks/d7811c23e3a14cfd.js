@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,45753,t=>{"use strict";t.s(["default",()=>c]);let c={echo:"https://api.jedmonson.net/ip",contact:"".concat("https","://").concat("api.jedmonson.net","/contact"),gtagId:"G-EGDLX3E1JZ",gsitekey:"6LcTUrYZAAAAANBFMWjKuJjsnBalSwk0N87GXI4q"}}]);
